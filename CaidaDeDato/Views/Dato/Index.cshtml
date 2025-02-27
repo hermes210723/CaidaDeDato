@@ -1,0 +1,8 @@
+﻿@{
+    ViewData["Title"] = "Cálculo de caída";
+}
+<h2>Ingrese la altura (m):</h2>
+<form asp-action="Calcular" method="post">
+    <input type="number" step="0.01" name="altura" required />
+    <button type="submit">Calcular</button>
+</form>
