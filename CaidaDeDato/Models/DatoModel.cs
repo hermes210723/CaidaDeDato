@@ -1,4 +1,7 @@
 ﻿namespace CaidaDeDato.Models  // Asegúrate de que coincida con el nombre del proyecto
+
+//Agregando comentarios para actualizar GitHub
+//actualizando datos
 {
     public class DatoModel
     {
